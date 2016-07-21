@@ -2,7 +2,7 @@
 ## Portable and standalone SDR covering AM/FM bands
 
 ---
-### これまでのあらすじ
+### <a href="https://sites.google.com/site/portablesdr/">これまでのあらすじ</a>
 * [１号](https://sites.google.com/site/portablesdr/sdr1)　脳までダイオード化される前に踏みとどまり１号となった。
 * [２号](https://sites.google.com/site/portablesdr/sdr2)　１号のピンチを救うために造られた。
 * [Ｖ３](https://github.com/mizutanilab/SDR-V3)　１号２号の目指した理想を胸に生まれた。
