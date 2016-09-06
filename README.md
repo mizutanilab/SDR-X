@@ -99,4 +99,4 @@ NHK FMを選局中です。強いです。<BR clear=left>
 掲載した情報は検証はしていますが、ご利用はご自身のご責任でどうぞ。  
 ---Mizutani Lab---
 
-[![Analytics](https://ga-beacon.appspot.com/UA-80845358-7/SDR-X/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-80845358-3/SDR-X/readme)](https://github.com/igrigorik/ga-beacon)
