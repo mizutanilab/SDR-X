@@ -2,11 +2,11 @@
 ## Portable and standalone SDR covering AM/FM bands
 
 ---
-### <a href="https://sites.google.com/site/portablesdr/">これまでのあらすじ</a>
+### <a href="https://sites.google.com/site/portablesdr/">これまでのあらすじ</a> @Google sites
 * [１号](https://sites.google.com/site/portablesdr/sdr1)　脳までダイオード化される前に踏みとどまり１号となった。
 * [２号](https://sites.google.com/site/portablesdr/sdr2)　１号のピンチを救うために造られた。
 * [Ｖ３](https://sites.google.com/site/portablesdr/sdr-v3)　１号２号の目指した理想を胸に生まれた。
-* [Ｘ](https://sites.google.com/site/portablesdr/sdr-x)　　Ｖ３の思いをうけて生まれ変わったが、いま一歩およばない（このページ）。
+* [Ｘ](https://sites.google.com/site/portablesdr/sdr-x)　　Ｖ３の思いをうけて生まれ変わったが、いま一歩およばない（このページと同じ）。
 
 ### 概要
 ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR](https://sites.google.com/site/portablesdr/sdr-v3) [@GitHub](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。
