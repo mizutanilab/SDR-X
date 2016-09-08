@@ -2,14 +2,14 @@
 ## Portable and standalone SDR covering AM/FM bands
 
 ---
-### <a href="https://sites.google.com/site/portablesdr/">これまでのあらすじ</a> @Google sites
+### <a href="https://sites.google.com/site/portablesdr/">ポータブルでスタンドアローンなソフトウェアラジオ</a> @Google sites
 * [１号](https://sites.google.com/site/portablesdr/sdr1)　脳までダイオード化される前に踏みとどまり１号となった。
 * [２号](https://sites.google.com/site/portablesdr/sdr2)　１号のピンチを救うために造られた。
 * [Ｖ３](https://sites.google.com/site/portablesdr/sdr-v3)　１号２号の目指した理想を胸に生まれた。
 * [Ｘ](https://sites.google.com/site/portablesdr/sdr-x)　　Ｖ３の思いをうけて生まれ変わったが、いま一歩およばない（このページと同じ）。
 
 ### 概要
-ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR](https://sites.google.com/site/portablesdr/sdr-v3) [@GitHub](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。
+ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR@Google](https://sites.google.com/site/portablesdr/sdr-v3) [@GitHub](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。
 
 <IMG alt=overall src="img/SDRXoverall.jpg" align=left>
 全体像です。右側のプッシュボタンとツマミで周波数とか変更します。周波数は、一応19.6 kHzから225 MHzまで最小0.1 kHz刻みで設定できます。国内のAM局やFM局が聞けます。海外の短波放送も入りますが、そっちが目的なら[AD9851+SA612構成のSDR](https://sites.google.com/site/portablesdr/sdr-v3)の方がずっといいと思います。高い方は、110 MHzまでは普通です。それ以上は局発の設定の仕方が変わって、散発的に大きいのが入ったりして何かおかしいですが、ところどころでそれらしい入感があります。低い方は26.3 kHzより下は変で、局発がついていっていない感じです。  
