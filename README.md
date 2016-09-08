@@ -1,4 +1,4 @@
-## ポータブルでスタンドアローンなソフトウエア・ラジオ，AM/FMタイプ
+## ポータブルでスタンドアローンなソフトウエアラジオ，AM/FMタイプ
 ## Portable and standalone SDR covering AM/FM bands
 
 ---
