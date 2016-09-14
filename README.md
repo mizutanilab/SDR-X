@@ -98,5 +98,3 @@ NHK FMを選局中です。強いです。<BR clear=left>
 このページの内容は[クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/)の下で提供されています。
 掲載した情報は検証はしていますが、ご利用はご自身のご責任でどうぞ。  
 ---Mizutani Lab---
-
-[![Analytics](https://ga-beacon.appspot.com/UA-80845358-7/SDR-X/readme)](https://github.com/igrigorik/ga-beacon)
