@@ -3,8 +3,8 @@
 
 ---
 ### <a href="https://sites.google.com/site/portablesdr/">ポータブルでスタンドアローンなソフトウェアラジオ</a> @Google sites
-* [１号](https://sites.google.com/site/portablesdr/sdr1)　脳までダイオード化される前に踏みとどまり１号となった。
-* [２号](https://sites.google.com/site/portablesdr/sdr2)　１号のピンチを救うために造られた。
+* １号　脳までダイオード化される前に踏みとどまり１号となった。世界に旅立ち、もう会うことはできない。
+* ２号　１号のピンチを救うために造られた。伝説となり、人々の記憶だけに残っている。
 * [Ｖ３](https://sites.google.com/site/portablesdr/sdr-v3)　１号２号の目指した理想を胸に生まれた。
 * Ｘ　　Ｖ３の思いをうけて生まれ変わったが、いま一歩およばない（このページ）。
 
