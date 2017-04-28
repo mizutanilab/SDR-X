@@ -1,8 +1,6 @@
 ## ポータブルでスタンドアローンなソフトウェアラジオ，AM/FMタイプ
 ## Portable and standalone SDR covering AM/FM bands
 
----
-
 ### 概要
 ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。
 
@@ -89,9 +87,9 @@ NHK FMを選局中です。強いです。<BR>
 
 ---
 このページの内容はMITライセンスの下で提供されています。掲載した情報は検証はしていますが、ご利用はご自身のご責任でどうぞ。  
-<A href="https://mizutanilab.github.io/">Mizutani Lab</A> - 
-<A href="https://sites.google.com/site/portablesdr/">Google sites</A> - 
-<A href="http://www.youtube.com/user/mizutaniLab">YouTube</A><BR>
-<A href="https://github.com/mizutanilab/">GitHub</A> - 
 <A href="https://github.com/mizutanilab/SDR-X">SDR-X</A> - 
-<A href="https://github.com/mizutanilab/SDR-V3">SDR-V3</A>
+<A href="https://github.com/mizutanilab/SDR-V3">SDR-V3</A> - 
+<A href="https://sites.google.com/site/portablesdr/">Google sites</A> - 
+<A href="https://github.com/mizutanilab/">GitHub</A> - 
+<A href="http://www.youtube.com/user/mizutaniLab">YouTube</A> - 
+<A href="https://mizutanilab.github.io/">Mizutani Lab</A><BR>
