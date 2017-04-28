@@ -89,4 +89,9 @@ NHK FMを選局中です。強いです。<BR>
 
 ---
 このページの内容はMITライセンスの下で提供されています。掲載した情報は検証はしていますが、ご利用はご自身のご責任でどうぞ。  
----Mizutani Lab---
+<A href="https://mizutanilab.github.io/">Mizutani Lab</A> - 
+<A href="https://sites.google.com/site/portablesdr/">Google sites</A> - 
+<A href="http://www.youtube.com/user/mizutaniLab">YouTube</A><BR>
+<A href="https://github.com/mizutanilab/">GitHub</A> - 
+<A href="https://github.com/mizutanilab/SDR-X">SDR-X</A> - 
+<A href="https://github.com/mizutanilab/SDR-V3">SDR-V3</A>
