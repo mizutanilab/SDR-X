@@ -75,7 +75,7 @@
 <tr><td>91.6</td><td>文化放送</td><td>8</td><td>普通</td></tr>
 <tr><td>93.0</td><td>ニッポン放送</td><td>7</td><td>普通</td></tr>
 </table>
-近場のAMとFMはだいたい入ります。短波は東アジア系がメインです。FMが強すぎてゴーストがたくさん出るのと、ノイズが大きいのとで、短波はいまいちな感じです。遠いところでオーストラリアぐらいです。局名は、内容がわかるのはそれで確認しましたが、他はshort-wave.infoやshortwaveschedule.comで調べました。
+近場のAMとFMはだいたい入ります。短波は東アジア系がメインです。FMが強すぎてゴーストがたくさん出るのと、ノイズが大きいのとで、短波はいまいちな感じです。遠いところでオーストラリアぐらいです。局名は、内容がわかるのはそれで確認しましたが、他はshort-wave.infoやshortwaveschedule.comで調べました。<BR><BR>
 
 <IMG alt=NHK-FM src="img/SDRXnhkfm.jpg"> 
 NHK FMを選局中です。強いです。<BR>
