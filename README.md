@@ -12,7 +12,6 @@
 
 <IMG alt=PCB src="img/SDRXinside.jpg"><BR>
 液晶を取ったところです。28 pinのDIPがPICで、その左下は、局発に使ったSi5351のモジュールです。その右隣にくっついているのがバックライト駆動用の2SA1015、そのさらに右がオーディオ用のNJU7043です。中央下寄りに変換基板にのっているのは差動増幅のNJM2746、一番下に２つあるのがSA612Aです。左上は電源関係です。初めは下半分をシールドしようと思って、そのスペースも作ってあったのですが、あんまりな性能でやめました。<BR>
-<IMG alt=NHKFM src="img/SDRXnhkfm.jpg"><BR>
   
 ### 回路図
 ![circuit](img/SDRXcircuit.jpg)
@@ -73,7 +72,7 @@
 </table>
 近場のAMとFMはだいたい入ります。短波は東アジア系がメインです。FMが強すぎてゴーストがたくさん出るのと、ノイズが大きいのとで、短波はいまいちな感じです。遠いところでオーストラリアぐらいです。局名は、内容がわかるのはそれで確認しましたが、他はshort-wave.infoやshortwaveschedule.comで調べました。<BR><BR>
 
-<IMG alt=NHK-FM src="img/SDRXnhkfm.jpg"><BR>
+<IMG alt=NHK_FM src="img/SDRXnhkfm.jpg"><BR>
 NHK FMを選局中です。強いです。<BR>
 
 <IMG alt=KBS src="img/SDRXkbs.jpg"><BR>
