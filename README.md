@@ -1,4 +1,4 @@
-## Portable and standalone SDR covering AM/FM bands
+## <a href="https://github.com/mizutanilab/SDR-X">Portable and standalone SDR covering AM/FM bands</a>
 ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。
 
 <IMG alt=overall src="img/SDRXoverall.jpg"><BR>
