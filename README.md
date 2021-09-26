@@ -12,7 +12,7 @@
 
 <IMG alt=PCB src="img/SDRXinside.jpg"><BR>
 液晶を取ったところです。28 pinのDIPがPICで、その左下は、局発に使ったSi5351のモジュールです。その右隣にくっついているのがバックライト駆動用の2SA1015、そのさらに右がオーディオ用のNJU7043です。中央下寄りに変換基板にのっているのは差動増幅のNJM2746、一番下に２つあるのがSA612Aです。左上は電源関係です。初めは下半分をシールドしようと思って、そのスペースも作ってあったのですが、あんまりな性能でやめました。<BR>
-<IMG alt=NHK-FM src="img/SDRXnhkfm.jpg"><BR>
+<IMG alt=NHKFM src="img/SDRXnhkfm.jpg"><BR>
   
 ### 回路図
 ![circuit](img/SDRXcircuit.jpg)
