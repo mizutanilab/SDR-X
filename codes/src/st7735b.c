@@ -152,6 +152,7 @@ void clcd_init2(void) {
     writecommand(ST7735_INVOFF);// 13: Don't invert display, no args, no delay
     writecommand(ST7735_MADCTL);// 14: Memory access control (directions), 1 arg:
 	writedata(0xC8);//     row addr/col addr, bottom to top refresh
+	//writedata(0xC0);//     RGB<>BGR
     writecommand(ST7735_COLMOD);// 15: set color mode, 1 arg, no delay:
 	writedata(0x05);//     16-bit color
 
