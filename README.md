@@ -1,6 +1,8 @@
 ## <a href="https://github.com/mizutanilab/SDR-X">Portable and standalone SDR covering AM/FM bands</a>
 ポータブルでスタンドアローンなソフトウェアラジオの製作例です。局発にSi5351Aを使ってミキサ612に入れる構成で、周波数的にはAM帯からFM帯までカバーしています。回路は、うまくいった[AD9851+SA612構成のSDR](https://github.com/mizutanilab/SDR-V3)を元にしたのですが、性能的にはそこまでいってません。カラー液晶でスペクトル（スペクトラム）が出て、ウォーターフォール表示できて、見かけだけはいい感じです。AM受信の様子＞<a href="https://youtu.be/l_Iq-I2uv_Y">YouTube</a>
 
+This is a homebrew model of portable, stand-alone software radio. The circuit uses Si5351A for the local generator and puts its outputs into mixers 612. This model covers AM and FM bands. The circuit is based on a successful [SDR with AD9851+SA612](https://github.com/mizutanilab/SDR-V3) configuration, but the performance is not as good as that one. The color LCD shows the spectrum, can display waterfall, and looks nice. AM reception >> <a href="https://youtu.be/l_Iq-I2uv_Y">YouTube</a>
+
 <IMG alt=overall src="img/SDRXoverall.jpg"><BR>
 全体像です。右側のプッシュボタンとツマミで周波数とか変更します。周波数は、一応19.6 kHzから225 MHzまで最小0.1 kHz刻みで設定できます。国内のAM局やFM局が聞けます。海外の短波放送も入りますが、そっちが目的なら<a href="https://github.com/mizutanilab/SDR-V3">AD9851採用のSDR</a>の方がずっといいと思います。高い方は、110 MHzまでは普通です。それ以上は局発の設定の仕方が変わって、散発的に大きいのが入ったりして何かおかしいですが、ところどころでそれらしい入感があります。低い方は26.3 kHzより下は変で、局発がついていっていない感じです。  
 　今回の局発は方形波なので、1/3fや1/5fなどの奇数分の１のところでも同調します。偶数分の１のところでも若干入ります。そのせいで長波帯にはAMのゴーストが出ます。短波帯もFMのゴーストがあちこちで出ます。  
